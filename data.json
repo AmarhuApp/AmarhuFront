@@ -1,0 +1,39 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "thumbnailUrl": "https://i.ytimg.com/vi/DIqhdpbClOs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLBuj8FlHFDjhBOfL9gnwgh8RD4PoA",
+      "videoTitle": "Título del Video 1",
+      "viewCount": 1000,
+      "rpm": 0.1
+    },
+    {
+      "id": 2,
+      "thumbnailUrl": "https://i.ytimg.com/vi/tIWzTItRx-Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPigNAEVgBVuwcSQCjEql4SfnofA",
+      "videoTitle": "Título del Video 2",
+      "viewCount": 500,
+      "rpm": 1.2
+    },
+    {
+      "id": 3,
+      "thumbnailUrl": "https://i.ytimg.com/vi/DIqhdpbClOs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLBuj8FlHFDjhBOfL9gnwgh8RD4PoA",
+      "videoTitle": "Título del Video 3",
+      "viewCount": 1000,
+      "rpm": 1.75
+    },
+    {
+      "id": 4,
+      "thumbnailUrl": "https://i.ytimg.com/vi/DIqhdpbClOs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLBuj8FlHFDjhBOfL9gnwgh8RD4PoA",
+      "videoTitle": "Título del Video 4",
+      "viewCount": 1000,
+      "rpm": 2.2
+    },
+    {
+      "id": 5,
+      "thumbnailUrl": "https://i.ytimg.com/vi/DIqhdpbClOs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLBuj8FlHFDjhBOfL9gnwgh8RD4PoA",
+      "videoTitle": "Título del Video 5",
+      "viewCount": 1000,
+      "rpm": 3.3
+    }
+  ]
+}
